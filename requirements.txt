@@ -1,0 +1,6 @@
+requests
+datetime
+apscheduler
+pandas
+tabulate
+colorama
