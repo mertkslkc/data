@@ -1,13 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 28 11:39:52 2022
-Last update on Mon Mar 7 16:12:15 2022
-
-@author: Zertyn
-Intellectual property of Zertyn
-Donations are very welcome (DATA, MATIC, ETH): 0x720D3842198A21403482C919841B81958B5220e1 (Polygon and Etherium chain)
-"""
-
 import requests as rq
 from datetime import datetime
 import json
